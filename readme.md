@@ -1,6 +1,6 @@
 # Checklist conversion
 
-The way issues are stored in the current Mongo is bonkers. Lets make it useable.
+The way issues are stored in the current Mongo based user data is bonkers. Lets make it useable.
 
 1. Use the aggregation pipeline to get it so each issue corresponds to a row:
 
