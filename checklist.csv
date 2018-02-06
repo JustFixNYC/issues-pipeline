@@ -1,0 +1,148 @@
+key,value
+checklist.bedrooms.title,Bedrooms
+checklist.bedrooms.paint,Peeling Paint
+checklist.bedrooms.cracked,Cracked Walls
+checklist.bedrooms.mold,Mold on Walls
+checklist.bedrooms.water,Water Damage
+checklist.bedrooms.loose,Loose Floor
+checklist.bedrooms.windowGlass,Window Glass Broken
+checklist.bedrooms.windowFrame,Window Frame Defective
+checklist.bedrooms.door,Door Broken
+checklist.bedrooms.radiators,Radiators/Risers Defective
+checklist.bedrooms.ceilingFall,Ceiling Falling/Fell
+checklist.bedrooms.ceilingLeaking,Ceiling Leaking
+checklist.bedrooms.electricity,Electricity defective
+checklist.bedrooms.electricExposed,Electric wiring exposed
+checklist.bedrooms.outlets,Outlets defective
+checklist.kitchen.title,Kitchen
+checklist.kitchen.paint,Peeling Paint
+checklist.kitchen.cookingGas,No Cooking Gas
+checklist.kitchen.cracked,Cracked Walls
+checklist.kitchen.mold,Mold on Walls
+checklist.kitchen.water,Water Damage
+checklist.kitchen.loose,Loose Floor
+checklist.kitchen.baseboards,Baseboards Defective
+checklist.kitchen.windowGlass,Window Glass Broken
+checklist.kitchen.windowFrame,Window Frame Defective
+checklist.kitchen.door,Door Broken
+checklist.kitchen.radiators,Radiators/Risers Defective
+checklist.kitchen.ceilingFall,Ceiling Falling/Fell
+checklist.kitchen.ceilingLeaking,Ceiling Leaking
+checklist.kitchen.electricity,Electricity defective
+checklist.kitchen.electricExposed,Electric wiring exposed
+checklist.kitchen.outlets,Outlets defective
+checklist.kitchen.sink,Cracked Sink (Sink)
+checklist.kitchen.leakyFaucet,Leaky Faucet (Sink)
+checklist.kitchen.noFaucet,Faucets not installed (Sink)
+checklist.kitchen.brokenFaucet,Faucets not working (Sink)
+checklist.kitchen.pipesLeaking,Pipes Leaking (Sink)
+checklist.kitchen.drainBlock,Drain Stoppage (Sink)
+checklist.kitchen.fridgeDefective,Refrigerator Defective
+checklist.kitchen.fridgeBroken,Refrigerator Broken
+checklist.kitchen.stoveDefective,Stove Defective
+checklist.kitchen.stoveBroken,Stove Broken
+checklist.livingRoom.title,Living Room
+checklist.livingRoom.paint,Peeling Paint
+checklist.livingRoom.cracked,Cracked Walls
+checklist.livingRoom.mold,Mold on Walls
+checklist.livingRoom.water,Water Damage
+checklist.livingRoom.loose,Loose Floor
+checklist.livingRoom.baseboards,Baseboards Defective
+checklist.livingRoom.windowGlass,Window Glass Broken
+checklist.livingRoom.windowFrame,Window Frame Defective
+checklist.livingRoom.door,Door Broken
+checklist.livingRoom.radiators,Radiators/Risers Defective
+checklist.livingRoom.ceilingFall,Ceiling Falling/Fell
+checklist.livingRoom.ceilingLeaking,Ceiling Leaking
+checklist.livingRoom.electricity,Electricity defective
+checklist.livingRoom.electricExposed,Electric wiring exposed
+checklist.livingRoom.outlets,Outlets defective
+checklist.bathroom.title,Bathroom
+checklist.bathroom.paint,Peeling Paint
+checklist.bathroom.cracked,Cracked Walls
+checklist.bathroom.mold,Mold on Walls
+checklist.bathroom.water,Water Damage
+checklist.bathroom.loose,Loose Floor
+checklist.bathroom.baseboards,Baseboards Defective
+checklist.bathroom.windowGlass,Window Glass Broken
+checklist.bathroom.windowFrame,Window Frame Defective
+checklist.bathroom.door,Door Broken
+checklist.bathroom.radiators,Radiators/Risers Defective
+checklist.bathroom.ceilingFall,Ceiling Falling/Fell
+checklist.bathroom.ceilingLeaking,Ceiling Leaking
+checklist.bathroom.electricity,Electricity defective
+checklist.bathroom.electricExposed,Electric wiring exposed
+checklist.bathroom.outlets,Outlets defective
+checklist.bathroom.toiletBroken,Toilet not working (Toilet)
+checklist.bathroom.toiletLeaking,Toilet leaking (Toilet)
+checklist.bathroom.waterPressureToilet,Inadequate Water pressure (Toilet)
+checklist.bathroom.sink,Cracked Sink (Sink)
+checklist.bathroom.leakyFaucet,Leaky Faucet (Sink)
+checklist.bathroom.noFaucet,Faucets not installed (Sink)
+checklist.bathroom.brokenFaucet,Faucets not working (Sink)
+checklist.bathroom.pipesLeaking,Pipes Leaking (Sink)
+checklist.bathroom.crackedTub,Cracked Tub (Bathtub)
+checklist.bathroom.leakyFaucetB,Leaky Faucet (Bathtub)
+checklist.bathroom.noFaucetB,Faucets not installed (Bathtub)
+checklist.bathroom.faucetsNotWorkingB,Faucets not working (Bathtub)
+checklist.bathroom.pipesLeakingB,Pipes Leaking (Bathtub)
+checklist.bathroom.notWorkingShower,Not working (Shower)
+checklist.bathroom.WaterPressureShower,Inadequate Water pressure (Shower)
+checklist.bathroom.leakyShowerHead,Leaky shower head (Shower)
+checklist.bathroom.wallTiles,Wall tiles cracked (Shower)
+checklist.bathroom.wallTilesMissing,Wall tiles missing (Shower)
+checklist.bathroom.drainStoppage,Drain Stoppage (Shower)
+checklist.entireHome.title,Entire Home
+checklist.entireHome.mice,Mice
+checklist.entireHome.rats,Rats
+checklist.entireHome.cockroaches,Cockroaches
+checklist.entireHome.bedbugs,Bedbugs
+checklist.entireHome.hotWater,No Hot water
+checklist.entireHome.coldWater,No Cold water
+checklist.entireHome.heat,No heat
+checklist.entireHome.frontDoorDefective,Front door defective
+checklist.entireHome.frontDoorBroken,Front door broken
+checklist.entireHome.doorLockDefective,Door lock defective
+checklist.entireHome.doorLockBroken,Door lock broken
+checklist.entireHome.doorbellDefective,Doorbell defective
+checklist.entireHome.doorbellBroken,Doorbell broken
+checklist.entireHome.buzzerDefective,Buzzer defective
+checklist.entireHome.buzzerBroken,Buzzer broken
+checklist.entireHome.smoke,No Smoke detector
+checklist.entireHome.smokeDefective,Smoke detector defective
+checklist.entireHome.floorSags,Floor sags
+checklist.entireHome.apartmentPainting,Apartment needs painting
+checklist.publicAreas.title,Public Areas
+checklist.publicAreas.paintOverdue,Painting overdue (3 years)
+checklist.publicAreas.peelingFlaking,Peeling/flaking paint
+checklist.publicAreas.heat,No heat
+checklist.publicAreas.hotWater,No Hot water
+checklist.publicAreas.waterPressure,Inadequate water pressure
+checklist.publicAreas.rusty,Rusty water
+checklist.publicAreas.electricExposed,Electric wiring exposed
+checklist.publicAreas.electricWeak,Weak electrical current (lights dim)
+checklist.publicAreas.windowGuards,Window guards missing
+checklist.publicAreas.smokeCO2,Missing/broken smoke/Co2 detector
+checklist.publicAreas.fumesSmoke,Fumes/smoke entering apartment
+checklist.publicAreas.ratsMice,Rats/Mice
+checklist.publicAreas.bug,Bug Infestation
+checklist.publicAreas.illegalImpartments,Illegal apartments in basement
+checklist.publicAreas.noReceipts,No rent receipts given
+checklist.publicAreas.incompleteReceipts,Rent receipts incomplete (no date/ NYC address for landlord etc.)
+checklist.publicAreas.inadequateSuper,Inadequate / no super service
+checklist.landlordIssues.title,Landlord Issues
+checklist.landlordIssues.noReceipts,No rent receipts given
+checklist.landlordIssues.noReciepts,No rent receipts given
+checklist.landlordIssues.noLease,No lease
+checklist.landlordIssues.falseDocuments,False documents
+checklist.landlordIssues.illegalConstruction,Illegal construction
+checklist.landlordIssues.repeatedMci,Repeated MCI
+checklist.landlordIssues.overcharging,Overcharging
+checklist.landlordIssues.holdover,Holdover cases
+checklist.landlordIssues.useForce,Using force or threats of force
+checklist.landlordIssues.stopInterrupt,Stopping or interrupting essential services
+checklist.landlordIssues.stealing,Removing possessions from unit
+checklist.landlordIssues.changeLocks,Changing locks without supplying a new key
+checklist.landlordIssues.retaliation,Retaliation for seeking repairs
+checklist.landlordIssues.buyout,Constant buyout demands
+checklist.landlordIssues.falseEviction,Threatening eviction on false claims
